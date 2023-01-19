@@ -1,0 +1,11 @@
+body {
+    text-align:center;
+}
+#apps,#games,#chatbot {
+    font-size: 40px;
+    color: blue;
+}
+img{
+    width:400px;
+    margin:15px;
+}
